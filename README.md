@@ -3,11 +3,11 @@
 
 
   
-![Mange Your finance](https://res.cloudinary.com/dwc3fiaro/image/upload/c_fit,w_200/v1695552818/Budget-Control-App/Screenshot_20230924_093730_BudgetApp_l5pj1e.jpg)
-![Login](https://res.cloudinary.com/dwc3fiaro/image/upload/c_fit,w_200/v1695552816/Budget-Control-App/Screenshot_20230924_093654_BudgetApp_zyjsix.jpg)
-![Saving Goal](https://res.cloudinary.com/dwc3fiaro/image/upload/c_fit,w_200/v1695558763/Budget-Control-App/shot2_tj0jhv.png)
-![Category](https://res.cloudinary.com/dwc3fiaro/image/upload/c_fit,w_200/q_auto:best/v1695558862/Budget-Control-App/shot3_gp2adv.png)
-![Category](https://res.cloudinary.com/dwc3fiaro/image/upload/c_fit,w_180/q_auto:best/v1695559837/Budget-Control-App/Screenshot_20230924_154956_BudgetApp_dzqynm.jpg)
+![Mange Your finance](https://res.cloudinary.com/dwc3fiaro/image/upload/c_fit,w_150/v1695552818/Budget-Control-App/Screenshot_20230924_093730_BudgetApp_l5pj1e.jpg)
+![Login](https://res.cloudinary.com/dwc3fiaro/image/upload/c_fit,w_150/v1695552816/Budget-Control-App/Screenshot_20230924_093654_BudgetApp_zyjsix.jpg)
+![Saving Goal](https://res.cloudinary.com/dwc3fiaro/image/upload/c_fit,w_150/v1695558763/Budget-Control-App/shot2_tj0jhv.png)
+![Category](https://res.cloudinary.com/dwc3fiaro/image/upload/c_fit,w_150/q_auto:best/v1695558862/Budget-Control-App/shot3_gp2adv.png)
+![Category](https://res.cloudinary.com/dwc3fiaro/image/upload/c_fit,w_150/q_auto:best/v1695559837/Budget-Control-App/Screenshot_20230924_154956_BudgetApp_dzqynm.jpg)
 
 
 ## Introduction
