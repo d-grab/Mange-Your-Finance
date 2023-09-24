@@ -1,14 +1,17 @@
 <h1 align="center"> Manage Your Finance Mobile App</h1>
 
-<div align="center">
-  
-![Mange Your finance](https://res.cloudinary.com/dwc3fiaro/image/upload/c_fit,w_342/v1695552818/Budget-Control-App/Screenshot_20230924_093730_BudgetApp_l5pj1e.jpg)
-![Login](https://res.cloudinary.com/dwc3fiaro/image/upload/c_fit,w_342/v1695552816/Budget-Control-App/Screenshot_20230924_093654_BudgetApp_zyjsix.jpg)
 
+<div align="center">  
+  
+![Mange Your finance](https://res.cloudinary.com/dwc3fiaro/image/upload/c_fit,w_200/v1695552818/Budget-Control-App/Screenshot_20230924_093730_BudgetApp_l5pj1e.jpg)
+![Login](https://res.cloudinary.com/dwc3fiaro/image/upload/c_fit,w_200/v1695552816/Budget-Control-App/Screenshot_20230924_093654_BudgetApp_zyjsix.jpg)
+![Saving Goal](https://res.cloudinary.com/dwc3fiaro/image/upload/c_fit,w_200/v1695558763/Budget-Control-App/shot2_tj0jhv.png)
+![Category](https://res.cloudinary.com/dwc3fiaro/image/upload/c_fit,w_200/q_auto:best/v1695558862/Budget-Control-App/shot3_gp2adv.png)
+![Category](https://res.cloudinary.com/dwc3fiaro/image/upload/c_fit,w_180/q_auto:best/v1695559837/Budget-Control-App/Screenshot_20230924_154956_BudgetApp_dzqynm.jpg)
 </div>
 
 ## Introduction
-This repository contains the source code for the "Manage Your Finance" mobile application developed using React Native and Firebase. The app is designed to help young adults manage their finances better, with features like financial education, gamification, and more.
+This repository contains the source code for the "Manage Your Finance" mobile application developed using React Native, TypeScript, Expo and Firebase. The app is designed to help young adults manage their finances better, with features like financial education, gamification, and more.
 
 ## Prerequisites
 - Android Studio
