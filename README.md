@@ -11,7 +11,7 @@
 
 
 ## Introduction
-This repository contains the source code for the "Manage Your Finance" mobile application developed using React Native, TypeScript, Expo and Firebase. The app is designed to help young adults manage their finances better, with features like financial education, gamification, and more.
+This repository contains the source code for the "Manage Your Finance" mobile application developed using React Native, TypeScript, Expo and Firebase. The app is designed to to maximise savings and enhance financial health , with features like financial education, gamification, and more.
 
 ## Prerequisites
 - Android Studio
